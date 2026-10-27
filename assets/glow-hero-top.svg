@@ -1,0 +1,40 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="2238" height="685" viewBox="0 0 2238 685" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="gradient background" opacity="0.4" filter="url(#filter0_fg_0_99)">
+<g id="Ellipse 3" filter="url(#filter1_f_0_99)">
+<ellipse cx="1119" cy="340.207" rx="819" ry="40.2074" fill="#FFCAD1"/>
+</g>
+<g id="Ellipse 2" filter="url(#filter2_f_0_99)">
+<ellipse cx="1116.89" cy="357.666" rx="782.084" ry="27.3339" fill="#F97C8C"/>
+</g>
+<g id="Ellipse 1" filter="url(#filter3_f_0_99)">
+<ellipse cx="1116.89" cy="366.306" rx="782.084" ry="18.6929" fill="#EF233C"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_fg_0_99" x="0" y="0" width="2238" height="685" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="150" result="effect1_foregroundBlur_0_99"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.083333335816860199 0.083333335816860199" numOctaves="3" seed="9993" />
+<feDisplacementMap in="effect1_foregroundBlur_0_99" scale="12" xChannelSelector="R" yChannelSelector="G" result="displacedImage" width="100%" height="100%" />
+<feMerge result="effect2_texture_0_99">
+<feMergeNode in="displacedImage"/>
+</feMerge>
+</filter>
+<filter id="filter1_f_0_99" x="200" y="200" width="1838" height="280.415" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="50" result="effect1_foregroundBlur_0_99"/>
+</filter>
+<filter id="filter2_f_0_99" x="234.806" y="230.332" width="1764.17" height="254.668" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="50" result="effect1_foregroundBlur_0_99"/>
+</filter>
+<filter id="filter3_f_0_99" x="234.806" y="247.614" width="1764.17" height="237.386" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="50" result="effect1_foregroundBlur_0_99"/>
+</filter>
+</defs>
+</svg>
